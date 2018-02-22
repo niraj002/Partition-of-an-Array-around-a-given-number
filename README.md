@@ -1,0 +1,2 @@
+# Three-Way-Partition-of-an-Array-around-a-given-range
+Given an array and a range [lowVal, highVal], the array is partitioned around the range such that array is divided in three parts. 1) All elements smaller than lowVal come first. 2) All elements in range lowVal to highVVal come next. 3) All elements greater than highVVal appear in the end. The individual elements of three sets can appear in any order.
